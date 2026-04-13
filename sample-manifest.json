@@ -1,0 +1,12 @@
+{
+  "export_job_id": "c6ae0fbf-3a3d-4bd5-9402-a4395e75ec0c",
+  "id_short": 783615,
+  "published_at": "2026-04-13T07:46:34Z",
+  "repo_name": "new-restaurant-domains-365-days-in-pennsylvania-us-sample-783615",
+  "sample_asset_name": "beamstation_783615_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/783615/beamstation_783615_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_records": 105,
+  "sample_sha256": "94a1711acafea1c8eeeb37a17570237179b290974d1736ee77b628b1e3009365",
+  "sample_size_bytes": 379871,
+  "total_records": 1057
+}
